@@ -7,5 +7,4 @@ Zoom out to see the entire screen
 This neural network should work on any project
 
 Online demo:
-
 https://morpheox.github.io/Evolutive-neural-networks/
