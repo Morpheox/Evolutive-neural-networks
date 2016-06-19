@@ -20,7 +20,7 @@ Organism reproduce when they reach a certain age, have enough energy, and a rand
 Offspring can get a random mutation in its brain configuration, in the long term they evolve to fit the enviroment.
 
 
-
+You can click on an organism to see its brain map.
 
 The neurons.js file can be used on any project and the number of inputs, hidden layers, mutation rate, outputs etc.. can be easily modified.
 
