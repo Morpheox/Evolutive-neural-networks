@@ -306,9 +306,9 @@ function tick(){
 			}
 			son.energy=l.energy*0.5;
 			l.energy=l.energy*0.5;
-			son.r=l.r+parseInt(Math.random()*10)-5
-			son.g=l.g+parseInt(Math.random()*10)-5
-			son.b=l.b+parseInt(Math.random()*10)-5
+			son.r=l.r+parseInt(Math.random()*10)-parseInt(Math.random()*10)
+			son.g=l.g+parseInt(Math.random()*10)-parseInt(Math.random()*10)
+			son.b=l.b+parseInt(Math.random()*10)-parseInt(Math.random()*10)
 
 
 		}
