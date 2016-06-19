@@ -11,7 +11,7 @@ This custom analogic implementation works well for a more natural and chaotic mo
 
 The organisms have more than 20 inputs neurons, and 3 outputs neurons, this outputs are x movement, y movement, and suction.
 
-Positive suction will get extract energy from green pellets and give out energy to red pellets, and negative suction will give out energy to green pellets and extract energy from red pellets, so an organism can specialize in either type of food and avoid the other, or learn to modify its output depending on the type of food its absorbing.
+Positive suction will  extract energy from green pellets and give out energy to red pellets, and negative suction will give out energy to green pellets and extract energy from red pellets, so an organism can specialize in either type of food and avoid the other, or learn to modify its output depending on the type of food its absorbing.
 
 Organism have a basal energy consumption wich increases with age and size, they also use energy to move and reproduce.
 
